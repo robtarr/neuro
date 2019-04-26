@@ -1,0 +1,1 @@
+ export const modifyWeight = weight => weight + Math.random() * 2 - 1;
